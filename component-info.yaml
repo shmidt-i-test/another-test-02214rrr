@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component13124
+  description: wrwrww
+  annotations:
+    github.com/project-slug: shmidt-i-test/another-test-02214rrr
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i
